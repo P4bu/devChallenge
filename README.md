@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio de **DevChallenge**! 
 
-## 🚀 Aquí encontrarás soluciones a varios desafíos de desarrollo que he completado como parte de la plataforma **DevChallenge**. Cada desafío está diseñado para mejorar mis habilidades como desarrollador y poner a prueba mis conocimientos en diferentes áreas del desarrollo de software.
+ 🚀 Aquí encontrarás soluciones a varios desafíos de desarrollo que he completado como parte de la plataforma **DevChallenge**. Cada desafío está diseñado para mejorar mis habilidades como desarrollador y poner a prueba mis conocimientos en diferentes áreas del desarrollo de software.
 
 ---
 
