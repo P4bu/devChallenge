@@ -42,7 +42,4 @@ A continuación te muestro una lista de los proyectos que he completado:
 
 ---
 
-## 🛠️ Estructura del Proyecto
-
-Cada desafío sigue una estructura estándar que facilita la organización del código. A continuación se muestra cómo está organizado el repositorio:
 
