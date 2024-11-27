@@ -25,21 +25,6 @@ Cada proyecto incluye diferentes tecnologías. Algunos de los lenguajes y herram
 
 A continuación te muestro una lista de los proyectos que he completado:
 
-### 1. **Todo List con React** 📝
-- **Tecnologías**: React, CSS, LocalStorage
-- **Descripción**: Una aplicación de lista de tareas que permite a los usuarios agregar, editar y eliminar tareas. Las tareas se guardan localmente en el navegador.
-- **Instrucciones**: Verifica el archivo `README` dentro del proyecto para más detalles.
 
-### 2. **API de Gestión de Usuarios** 🌐
-- **Tecnologías**: Node.js, Express, MongoDB
-- **Descripción**: API RESTful para la gestión de usuarios, con funcionalidades para crear, leer, actualizar y eliminar usuarios.
-- **Instrucciones**: Consulta el `README` dentro del proyecto para más detalles sobre cómo instalar y ejecutar la API.
-
-### 3. **Clon de Instagram** 📸
-- **Tecnologías**: React, Firebase, CSS
-- **Descripción**: Un clon simple de Instagram, donde los usuarios pueden subir fotos, agregar descripciones y visualizar el feed de imágenes.
-- **Instrucciones**: Detalles de la instalación y ejecución en el archivo `README.md`.
-
----
 
 
