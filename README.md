@@ -23,7 +23,7 @@ Cada proyecto incluye diferentes tecnologías. Algunos de los lenguajes y herram
 
 ## 🚀 Como ver los desafios realizados:
 
-- **Cada desafio resuelto en una rama diferentes del repositorio con enumerados secuencialmente a medida que se van presentando.
+**Cada desafio resuelto en una rama diferentes del repositorio con enumerados secuencialmente a medida que se van presentando.**
 
 ---
 
